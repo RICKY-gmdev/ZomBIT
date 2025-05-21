@@ -1,0 +1,4 @@
+repository "ZomBIT@meet_ricky_the_dev@cloud"
+  path "/"
+    br "/main"
+    co "/main"
